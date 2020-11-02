@@ -10,3 +10,4 @@ Learn the holy Quran by listening to a hizb or an eighth of hizb several times.
 # Useful Links 
 * Quran MP3 with different reciters https://suratmp3.com/quran/reciters/13#play
 * Audacity for editing MP3 files https://www.fosshub.com/Audacity.html
+* Quran Videos Playlist Warsh: https://www.youtube.com/user/izri1948/videos
